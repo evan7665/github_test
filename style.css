@@ -1,7 +1,12 @@
 /* Basic reset */
 * {
+<<<<<<< HEAD
   margin: 10;
   padding: 0;
+=======
+  margin: 0;
+  padding: 10;
+>>>>>>> 246c606f49311508923fb250970cc2c0af4a7d80
   box-sizing: border-box;
 }
 
